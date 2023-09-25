@@ -1,5 +1,5 @@
 
-<p align="center">"📈 Explorando os Segredos dos Dados: Minha Jornada Pelo Conhecimento Digital" <br><br> "🔍 Navegando pelo vasto mar da análise de dados, aprofundando-me em Python e SQL para explorar informações valiosas em conjuntos de dados. Tenho uma paixão genuína por descobrir constantemente novos métodos e aplicá-los na criação de soluções de alto desempenho. Meu foco principal está no desenvolvimento de dados e na melhoria contínua das minhas habilidades." Concentrado em desenvolvimento de dados.</p>&nbsp;
+<p align="center">"📈 Minha jornada explorando os Segredos dos Dados" <br><br> "🔍 Navegando pelo vasto mar da análise de dados, aprofundando-me em Python e SQL para explorar informações valiosas em conjuntos de dados. Tenho uma paixão genuína por descobrir constantemente novos métodos e aplicá-los na criação de soluções de alto desempenho. Meu foco principal está no desenvolvimento de dados e na melhoria contínua das minhas habilidades." Concentrado em desenvolvimento de dados.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielmgsales&theme=radical&mode=weekly" />
