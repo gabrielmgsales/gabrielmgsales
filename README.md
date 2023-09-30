@@ -1,5 +1,5 @@
 
-<p align="center">"📈 Explorando os Segredos dos Dados" <br><br> "E aí, pessoal! Vamos explorar juntos o vasto mundo da análise de dados? Estou me aprofundando em Python e SQL para extrair informações valiosas de conjuntos de dados. Tenho uma paixão genuína por constantemente descobrir novos métodos e aplicá-los na criação de soluções de alto desempenho. Meu foco principal está no desenvolvimento de dados, e estou em busca constante de aprimorar minhas habilidades. Vamos nessa nessa jornada de evolução! 🤙 #DataNinja"</p>&nbsp;
+<p align="center">"📈 Explorando os Segredos dos Dados" <br><br> "E aí, pessoal! Vamos explorar juntos o vasto mundo da análise de dados? Estou me aprofundando em Python e SQL para extrair informações valiosas de conjuntos de dados. Tenho uma paixão genuína por constantemente descobrir novos métodos e aplicá-los na criação de soluções de alto desempenho. Meu foco principal está no desenvolvimento de dados, e estou em busca constante de aprimorar minhas habilidades. Bora nessa jornada de evolução! 🤙 #DataNinja"</p>&nbsp;
 
 ## My Skills
 
