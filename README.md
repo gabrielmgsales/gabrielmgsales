@@ -1,5 +1,5 @@
 
-<p align="center">"📈 Explorando os Segredos dos Dados" <br><br> "E aí, pessoal! Vamos explorar juntos o vasto mundo da análise de dados? Estou me aprofundando em Python e SQL para extrair informações valiosas de conjuntos de dados. Tenho uma paixão genuína por constantemente descobrir novos métodos e aplicá-los na criação de soluções de alto desempenho. Meu foco principal está no desenvolvimento de dados, e estou em busca constante de aprimorar minhas habilidades. Bora nessa jornada de evolução! 🤙 #DataNinja"</p>&nbsp;
+<p align="center">"📈 Analista de Dados Apaixonado por Python e SQL" <br><br> "E aí, pessoal! Vamos explorar juntos o vasto mundo da análise de dados? Estou me aprofundando em Python e SQL para extrair informações valiosas de conjuntos de dados. Tenho uma paixão genuína por constantemente descobrir novos métodos e aplicá-los na criação de soluções de alto desempenho. Meu foco principal está no desenvolvimento de dados, e estou em busca constante de aprimorar minhas habilidades. Bora nessa jornada de evolução! 🤙 #DataNinja"</p>&nbsp;
 
 ## My Skills
 
@@ -34,8 +34,10 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)<br>
 ![GA4](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![GA4](https://img.shields.io/badge/Google%20tag%20manager-0078D4?style=for-the-badge&logo=google%20tag%20manager&logoColor=white)
+
 
 
 &nbsp;
